@@ -1,0 +1,1 @@
+sorular = [{"Soru": "Yamanevler Enderun Bilişim Kursumuz kaç yılında kurulmuştur?", "Seçenekler":["A) 2023", "B) 2022", "C) 2021", "D) 1984"] }]
